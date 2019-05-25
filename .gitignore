@@ -1,0 +1,14 @@
+Cache/
+Cookies
+Cookies-journal
+databases/
+GPUCache/
+IndexedDB/
+Local\ Storage/
+Prefrences/
+QuotaManager/
+QuotaManager-journal/
+Service\ Worker/
+sessions/
+Settings
+tsconfig.json
