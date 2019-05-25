@@ -5,9 +5,9 @@ databases/
 GPUCache/
 IndexedDB/
 Local\ Storage/
-Prefrences/
-QuotaManager/
-QuotaManager-journal/
+Preferences
+QuotaManager
+QuotaManager-journal
 Service\ Worker/
 sessions/
 Settings
